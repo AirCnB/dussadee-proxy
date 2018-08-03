@@ -1,4 +1,21 @@
+
 #listing-description {
   margin-left: 200px;
+  margin-top: 15px;
+}
+
+#bookings {
+  float: right;
+  position: sticky;
+  top: 50px;
+  right: 210px;
+}
+
+#reviews {
   margin-top: 20px;
+  margin-left: 200px;
+}
+
+#banner {
+  margin-bottom: 30px;
 }
