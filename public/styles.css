@@ -1,4 +1,8 @@
-
+#logo {
+  height: 70px;
+  width: auto;
+  margin: auto 0;
+}
 #listing-description {
   margin-left: 200px;
   margin-top: 15px;
